@@ -14,3 +14,4 @@ my_car = car("Toyota", "Red")  # create an object
 my_car.drive()                  # call a function → Toyota is driving.
 my_car.paint("Blue")            # change color → Toyota is now Blue.
    
+# Python Codes

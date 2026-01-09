@@ -29,3 +29,5 @@ ram.deposit(5000)
 ram.withdraw(2000)
 print(ram.get_amount())
 
+
+# Python Codes

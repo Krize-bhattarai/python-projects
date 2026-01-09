@@ -51,3 +51,5 @@ def generate_password():
 
 password = generate_password()
 print(password)
+
+# Python Codes

@@ -7,3 +7,5 @@ except ZeroDivisionError:
     print("Cannot divide by zero")
 else:
     print(f"Result: {result}")
+
+# Python Codes
